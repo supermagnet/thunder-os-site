@@ -1,0 +1,7 @@
+---
+layout: default
+title:  "Simplicity"
+date:   2017-12-10 05:35:09 +0000
+categories: 	features
+text: "Simplicity is our priority"
+---

@@ -1,0 +1,13 @@
+# Site settings
+title: Thunder OS
+tagline: The most compact open-source android distribution.
+email: teamxtreme@thunderos.ml
+description: > # this means to ignore newlines until "baseurl:"
+  Thunder OS is a feature foused, user friendly, compact Android
+  Distribution with some additional customization and native speed.
+copyright: TeamXtreme 2017
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://thunderos.ml" # the base hostname & protocol for your site
+github_username:  
+# Build settings
+markdown: kramdown
